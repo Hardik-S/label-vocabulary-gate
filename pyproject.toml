@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "label-vocabulary-gate"
-version = "1.0.0"
+version = "0.1.1"
 description = "Offline exact categorical vocabulary membership gate"
 requires-python = ">=3.10"
 dependencies = []
